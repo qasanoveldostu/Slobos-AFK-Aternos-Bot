@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "mineworld-Ur9X.aternos.me",
-    "port": 50406,
+    "port": 40506,
     "version": "1.16.5",
     "try-creative": false
   },
